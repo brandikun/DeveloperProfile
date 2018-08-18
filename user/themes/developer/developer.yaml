@@ -1,0 +1,68 @@
+enabled: true
+
+# Profile
+profile:
+  name: "Brandon Himes"
+  desc: "Software Developer"
+  avatar_url: "https://pbs.twimg.com/profile_images/1791547896/394904_10150442771145741_612050740_9097674_1939925495_n_200x200.jpg"
+  informations:
+    - icon: "map-marker"
+      label: "Location"
+      url: ""
+      text: "San Diego, CA"
+
+    - icon: "envelope-o"
+      label: "Email"
+      url: "mailto:brandon.himes@yahoo.com"
+      text: "brandon.himes@yahoo.com"
+
+    - icon: "link"
+      label: "Website"
+      url: "brandonhimes.com"
+      text: "brandonhimes.com"
+
+# Github
+github: "brandikun"
+
+# Coderwall
+#coderwall: "tnajdek"#
+
+# RSS Feed
+rss_feed:
+  url: "http://feeds.feedburner.com/TechCrunch/startups"
+  limit: 3
+  effect: "slideFastSynced" # valid values: 'show', 'slide', 'slideFast', 'slideSynced', 'slideFastSynced'
+
+# Linkedin
+linkedin: "https://linkedin.com/in/brandonh92019"
+
+# Social Networks
+social:
+  networks:
+    - url: "https://twitter.com/brandonhmmmms"
+      icon: "twitter"
+      title:
+
+ #   - url: "#"
+ #     icon: "google-plus"
+ #     title:
+
+    - url: "https://linkedin/in/brandonh92019"
+      icon: "linkedin"
+      title:
+
+    - url: "https://github.com/brandikun"
+      icon: "github-alt"
+      title:
+
+#    - url: "#"
+ #     icon: "hacker-news"
+#      title:
+
+# Grav streams
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/developer

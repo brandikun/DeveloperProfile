@@ -1,0 +1,42 @@
+1535174956
+a:2:{s:7:"content";s:1713:"
+  <p class="intro">Intro about your skills goes here. Keep the list lean and only show your primary skillset. You can always provide a link to your Linkedin or Coderwall profile so people can get more info there.</p>
+
+  <div class="skillset">
+          <div class="item">
+        <h3 class="level-title">Java <span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true" title="You&#x20;can&#x20;use&#x20;the&#x20;tooltip&#x20;to&#x20;add&#x20;more&#x20;info...">Advanced</span></h3>
+        <div class="level-bar">
+          <div class="level-bar-inner" data-level="75%">
+          </div>
+        </div>
+      </div>
+          <div class="item">
+        <h3 class="level-title">Android Development <span class="level-label" >Advanced</span></h3>
+        <div class="level-bar">
+          <div class="level-bar-inner" data-level="75%">
+          </div>
+        </div>
+      </div>
+          <div class="item">
+        <h3 class="level-title">RESTful Services <span class="level-label" >Intermediate</span></h3>
+        <div class="level-bar">
+          <div class="level-bar-inner" data-level="60%">
+          </div>
+        </div>
+      </div>
+          <div class="item">
+        <h3 class="level-title">Microsoft Dynamics CRM <span class="level-label" >Intermediate</span></h3>
+        <div class="level-bar">
+          <div class="level-bar-inner" data-level="50%">
+          </div>
+        </div>
+      </div>
+          <div class="item">
+        <h3 class="level-title">Python <span class="level-label" >Foundational</span></h3>
+        <div class="level-bar">
+          <div class="level-bar-inner" data-level="40%">
+          </div>
+        </div>
+      </div>
+      </div>
+";s:12:"content_meta";N;}
