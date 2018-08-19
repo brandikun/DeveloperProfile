@@ -19,7 +19,6 @@ class __TwigTemplate_a072f7951327b91334683148a129f0646bb5343cf0de90f40f4cba86be1
             'body' => array($this, 'block_body'),
             'body_header' => array($this, 'block_body_header'),
             'body_content' => array($this, 'block_body_content'),
-            'body_footer' => array($this, 'block_body_footer'),
             'body_js' => array($this, 'block_body_js'),
         );
     }
@@ -53,13 +52,8 @@ class __TwigTemplate_a072f7951327b91334683148a129f0646bb5343cf0de90f40f4cba86be1
         echo "
     ";
         // line 95
-        $this->displayBlock('body_footer', $context, $blocks);
-        // line 102
-        echo "
-    ";
-        // line 103
         $this->displayBlock('body_js', $context, $blocks);
-        // line 121
+        // line 113
         echo "  </body>
 </html>
 ";
@@ -350,68 +344,51 @@ class __TwigTemplate_a072f7951327b91334683148a129f0646bb5343cf0de90f40f4cba86be1
     }
 
     // line 95
-    public function block_body_footer($context, array $blocks = array())
-    {
-        // line 96
-        echo "      <footer class=\"footer\">
-        <div class=\"container text-center\">
-          <small class=\"copyright\">Copyright &copy; ";
-        // line 98
-        echo twig_date_format_filter($this->env, "NOW", "Y");
-        echo " ";
-        echo $this->getAttribute(($context["site"] ?? null), "title", array());
-        echo " | Design: <a href=\"//themes.3rdwavemedia.com\">3rd Wave Media</a> | Grav Theme: <a href=\"//nunopress.com\">NunoPress LLC</a></small>
-        </div>
-      </footer>
-    ";
-    }
-
-    // line 103
     public function block_body_js($context, array $blocks = array())
     {
-        // line 104
+        // line 96
         echo "      ";
         $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/jquery-1.11.1.min.js", 1 => 106), "method");
-        // line 105
+        // line 97
         echo "      ";
         $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/jquery-migrate-1.2.1.min.js", 1 => 105), "method");
-        // line 106
+        // line 98
         echo "      ";
         $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/bootstrap/js/bootstrap.min.js", 1 => 104), "method");
-        // line 107
+        // line 99
         echo "
       ";
-        // line 108
+        // line 100
         if ($this->getAttribute(($context["theme_config"] ?? null), "rss_feed", array())) {
-            // line 109
+            // line 101
             echo "        ";
             $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/jquery-rss/dist/jquery.rss.min.js", 1 => 103), "method");
-            // line 110
+            // line 102
             echo "      ";
         }
-        // line 111
+        // line 103
         echo "
       ";
-        // line 112
+        // line 104
         if ($this->getAttribute(($context["theme_config"] ?? null), "github", array())) {
-            // line 113
+            // line 105
             echo "        ";
             $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/mustache-0.7.2.min.js", 1 => 102), "method");
-            // line 114
+            // line 106
             echo "        ";
             $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/plugins/github-activity/js/github-activity.min.js", 1 => 101), "method");
-            // line 115
+            // line 107
             echo "      ";
         }
-        // line 116
+        // line 108
         echo "
       ";
-        // line 117
+        // line 109
         $this->getAttribute(($context["assets"] ?? null), "add", array(0 => "theme://assets/js/main.js", 1 => 100), "method");
-        // line 118
+        // line 110
         echo "
       ";
-        // line 119
+        // line 111
         echo $this->getAttribute(($context["assets"] ?? null), "js", array(), "method");
         echo "
     ";
@@ -429,7 +406,7 @@ class __TwigTemplate_a072f7951327b91334683148a129f0646bb5343cf0de90f40f4cba86be1
 
     public function getDebugInfo()
     {
-        return array (  415 => 119,  412 => 118,  410 => 117,  407 => 116,  404 => 115,  401 => 114,  398 => 113,  396 => 112,  393 => 111,  390 => 110,  387 => 109,  385 => 108,  382 => 107,  379 => 106,  376 => 105,  373 => 104,  370 => 103,  360 => 98,  356 => 96,  353 => 95,  342 => 87,  338 => 86,  333 => 84,  328 => 81,  325 => 80,  317 => 75,  314 => 74,  310 => 72,  293 => 70,  289 => 69,  286 => 68,  284 => 67,  279 => 65,  275 => 64,  266 => 61,  264 => 60,  260 => 58,  257 => 57,  251 => 56,  247 => 52,  244 => 51,  241 => 50,  238 => 49,  235 => 48,  233 => 47,  231 => 46,  228 => 45,  223 => 43,  217 => 40,  214 => 39,  211 => 38,  208 => 37,  205 => 35,  203 => 34,  200 => 33,  197 => 32,  194 => 31,  191 => 30,  189 => 29,  186 => 28,  183 => 27,  180 => 26,  177 => 25,  166 => 19,  163 => 18,  157 => 15,  153 => 13,  120 => 11,  116 => 10,  111 => 7,  108 => 6,  104 => 53,  102 => 45,  99 => 44,  97 => 43,  94 => 42,  92 => 25,  87 => 23,  83 => 22,  80 => 21,  78 => 18,  75 => 17,  72 => 6,  69 => 5,  63 => 121,  61 => 103,  58 => 102,  56 => 95,  53 => 94,  51 => 80,  48 => 79,  45 => 57,  43 => 56,  39 => 54,  37 => 5,  32 => 2,  30 => 1,);
+        return array (  392 => 111,  389 => 110,  387 => 109,  384 => 108,  381 => 107,  378 => 106,  375 => 105,  373 => 104,  370 => 103,  367 => 102,  364 => 101,  362 => 100,  359 => 99,  356 => 98,  353 => 97,  350 => 96,  347 => 95,  336 => 87,  332 => 86,  327 => 84,  322 => 81,  319 => 80,  311 => 75,  308 => 74,  304 => 72,  287 => 70,  283 => 69,  280 => 68,  278 => 67,  273 => 65,  269 => 64,  260 => 61,  258 => 60,  254 => 58,  251 => 57,  245 => 56,  241 => 52,  238 => 51,  235 => 50,  232 => 49,  229 => 48,  227 => 47,  225 => 46,  222 => 45,  217 => 43,  211 => 40,  208 => 39,  205 => 38,  202 => 37,  199 => 35,  197 => 34,  194 => 33,  191 => 32,  188 => 31,  185 => 30,  183 => 29,  180 => 28,  177 => 27,  174 => 26,  171 => 25,  160 => 19,  157 => 18,  151 => 15,  147 => 13,  114 => 11,  110 => 10,  105 => 7,  102 => 6,  98 => 53,  96 => 45,  93 => 44,  91 => 43,  88 => 42,  86 => 25,  81 => 23,  77 => 22,  74 => 21,  72 => 18,  69 => 17,  66 => 6,  63 => 5,  57 => 113,  55 => 95,  52 => 94,  50 => 80,  47 => 79,  44 => 57,  42 => 56,  38 => 54,  36 => 5,  31 => 2,  29 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -534,14 +511,6 @@ class __TwigTemplate_a072f7951327b91334683148a129f0646bb5343cf0de90f40f4cba86be1
           </div>
         </div>
       </div>
-    {% endblock %}
-
-    {% block body_footer %}
-      <footer class=\"footer\">
-        <div class=\"container text-center\">
-          <small class=\"copyright\">Copyright &copy; {{ 'NOW' | date('Y') }} {{ site.title }} | Design: <a href=\"//themes.3rdwavemedia.com\">3rd Wave Media</a> | Grav Theme: <a href=\"//nunopress.com\">NunoPress LLC</a></small>
-        </div>
-      </footer>
     {% endblock %}
 
     {% block body_js %}

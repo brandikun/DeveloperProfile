@@ -92,14 +92,6 @@
       </div>
     {% endblock %}
 
-    {% block body_footer %}
-      <footer class="footer">
-        <div class="container text-center">
-          <small class="copyright">Copyright &copy; {{ 'NOW' | date('Y') }} {{ site.title }} | Design: <a href="//themes.3rdwavemedia.com">3rd Wave Media</a> | Grav Theme: <a href="//nunopress.com">NunoPress LLC</a></small>
-        </div>
-      </footer>
-    {% endblock %}
-
     {% block body_js %}
       {% do assets.add('theme://assets/plugins/jquery-1.11.1.min.js', 106) %}
       {% do assets.add('theme://assets/plugins/jquery-migrate-1.2.1.min.js', 105) %}
