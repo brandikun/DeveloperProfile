@@ -7,4 +7,4 @@ section_class: "skills"
 content:
   items: @self.children
 ---
-Intro about your skills goes here. Keep the list lean and only show your primary skillset. You can always provide a link to your Linkedin or Coderwall profile so people can get more info there.
+As a lifelong learner although my professional career has focused on Java, Android, and RESTful services, I am constantly learning and tinkering with new technologies, even outside my job duties.

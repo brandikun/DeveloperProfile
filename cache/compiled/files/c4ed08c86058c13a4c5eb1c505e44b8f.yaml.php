@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://developer/developer.yaml',
-    'modified' => 1534570316,
+    'modified' => 1534640379,
     'data' => [
         'enabled' => true,
         'profile' => [
@@ -32,7 +32,7 @@ return [
         ],
         'github' => 'brandikun',
         'rss_feed' => [
-            'url' => 'http://feeds.feedburner.com/TechCrunch/startups',
+            'url' => 'https://medium.com/feed/@brandonx',
             'limit' => 3,
             'effect' => 'slideFastSynced'
         ],

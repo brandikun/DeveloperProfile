@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Brandon Himes"
 
 content:
   items: @self.modular
@@ -10,7 +10,6 @@ content:
       - _about
 	  - _experience
       - _latest_projects
-      - _projects
       - _github
 
       - _basic_informations

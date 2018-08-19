@@ -29,7 +29,7 @@ github: "brandikun"
 
 # RSS Feed
 rss_feed:
-  url: "http://feeds.feedburner.com/TechCrunch/startups"
+  url: "https://medium.com/feed/@brandonx"
   limit: 3
   effect: "slideFastSynced" # valid values: 'show', 'slide', 'slideFast', 'slideSynced', 'slideFastSynced'
 

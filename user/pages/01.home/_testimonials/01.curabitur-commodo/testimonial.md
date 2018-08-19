@@ -1,5 +1,5 @@
 ---
-title: "Curabitur commodo"
-author: "Tim Adams"
+title: "PD/SOM Learning Program Manager, Global Learning and Enablement - Teradata"
+author: "Gregg Singer"
 ---
-James is an excellent software engineer and he is passionate about what he does. You can totally count on him to deliver your projects!
+Brandon is innovative and Dynamic. He was able to formulate plans that we were able to utilize for the entire team. In a leadership role, Brandon was a trendsetter. He was constantly utilized as an example of someone that knew how to read his team and maximize their efficiency... Brandon would be a great addition to any organization, as a sole contributor or in a leadership role.

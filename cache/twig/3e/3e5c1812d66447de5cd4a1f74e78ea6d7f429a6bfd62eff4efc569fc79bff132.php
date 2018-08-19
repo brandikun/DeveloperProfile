@@ -23,26 +23,19 @@ class __TwigTemplate_15e4c1ade45c25a2e370ab80b54f653d0a118afb65d0c6cfc2d35484a6e
         // line 3
         if (twig_length_filter($this->env, ($context["collection"] ?? null))) {
             // line 4
-            echo "  <ul class=\"list-unstyled\">
-    ";
-            // line 5
+            echo "    ";
             $context['_parent'] = $context;
             $context['_seq'] = twig_ensure_traversable(($context["collection"] ?? null));
             foreach ($context['_seq'] as $context["_key"] => $context["item"]) {
-                // line 6
-                echo "      <li><i class=\"fa fa-headphones\"></i> <a href=\"";
-                echo $this->getAttribute($this->getAttribute($context["item"], "header", array()), "link", array());
-                echo "\">";
+                // line 5
+                echo "      ";
                 echo $this->getAttribute($context["item"], "title", array());
-                echo "</a></li>
+                echo "
     ";
             }
             $_parent = $context['_parent'];
             unset($context['_seq'], $context['_iterated'], $context['_key'], $context['item'], $context['_parent'], $context['loop']);
             $context = array_intersect_key($context, $_parent) + $_parent;
-            // line 8
-            echo "  </ul>
-";
         }
     }
 
@@ -58,7 +51,7 @@ class __TwigTemplate_15e4c1ade45c25a2e370ab80b54f653d0a118afb65d0c6cfc2d35484a6e
 
     public function getDebugInfo()
     {
-        return array (  44 => 8,  33 => 6,  29 => 5,  26 => 4,  24 => 3,  21 => 2,  19 => 1,);
+        return array (  31 => 5,  26 => 4,  24 => 3,  21 => 2,  19 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -74,11 +67,9 @@ class __TwigTemplate_15e4c1ade45c25a2e370ab80b54f653d0a118afb65d0c6cfc2d35484a6e
         return new Twig_Source("{% set collection = page.collection() %}
 
 {% if collection | length %}
-  <ul class=\"list-unstyled\">
     {% for item in collection %}
-      <li><i class=\"fa fa-headphones\"></i> <a href=\"{{ item.header.link }}\">{{ item.title }}</a></li>
+      {{ item.title }}
     {% endfor %}
-  </ul>
 {% endif %}
 ", "modular/listen_music.html.twig", "E:\\xampp\\htdocs\\user\\themes\\developer\\templates\\modular\\listen_music.html.twig");
     }

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'E:/xampp/htdocs/user/config/system.yaml',
-    'modified' => 1534570152,
+    'modified' => 1534640388,
     'data' => [
         'home' => [
             'alias' => '/home'
