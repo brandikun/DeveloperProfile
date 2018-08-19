@@ -1,9 +1,11 @@
 ---
-title: "Favourite coding music"
+title: "Favourite Coding Music"
 
-section_position: "sidebar"
+section_position: sidebar
+
 section_class: "list music"
 
-content:
+content: 
   items: @self.children
 ---
+

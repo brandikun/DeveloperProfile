@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1534650838,
-    'checksum' => '18bc599e976321bb8269b113ffb6dfa7',
+    'timestamp' => 1534651548,
+    'checksum' => 'a186bcdf306bce1e49b6b99bf73d523d',
     'files' => [
         'user/config' => [
             'media' => [
@@ -15,7 +15,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1534568553
+                'modified' => 1534651164
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -23,7 +23,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1534650836
+                'modified' => 1534651546
             ],
             'themes/developer' => [
                 'file' => 'user/config/themes/developer.yaml',
@@ -509,18 +509,18 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'Software Developer',
             'default_lang' => 'en',
             'author' => [
                 'name' => 'Brandon Himes',
-                'email' => 'brandon.himes@yahoo.com'
+                'email' => 'admin@brandonhimes.com'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+                'description' => 'This is the portfolio site for Software Developer Brandon Himes'
             ],
             'summary' => [
                 'enabled' => true,

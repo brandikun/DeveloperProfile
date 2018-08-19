@@ -2,15 +2,29 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'E:/xampp/htdocs/user/config/site.yaml',
-    'modified' => 1534568553,
+    'modified' => 1534651164,
     'data' => [
-        'title' => 'Grav',
+        'title' => 'Software Developer',
+        'default_lang' => 'en',
         'author' => [
             'name' => 'Brandon Himes',
-            'email' => 'brandon.himes@yahoo.com'
+            'email' => 'admin@brandonhimes.com'
+        ],
+        'taxonomies' => [
+            0 => 'category',
+            1 => 'tag'
         ],
         'metadata' => [
-            'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+            'description' => 'This is the portfolio site for Software Developer Brandon Himes'
+        ],
+        'summary' => [
+            'enabled' => true,
+            'format' => 'short',
+            'size' => 300,
+            'delimiter' => '==='
+        ],
+        'blog' => [
+            'route' => '/blog'
         ]
     ]
 ];
