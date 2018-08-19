@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1534643403,
-    'checksum' => '21e1698da0257faefd9294d10bb7964b',
+    'timestamp' => 1534650838,
+    'checksum' => '18bc599e976321bb8269b113ffb6dfa7',
     'files' => [
         'user/config' => [
             'media' => [
@@ -23,7 +23,11 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1534643398
+                'modified' => 1534650836
+            ],
+            'themes/developer' => [
+                'file' => 'user/config/themes/developer.yaml',
+                'modified' => 1534650807
             ]
         ],
         'system/config' => [
@@ -744,6 +748,73 @@ return [
         ],
         'security' => [
             'salt' => 'KX9nyYTHwZMDEv'
+        ],
+        'themes' => [
+            'developer' => [
+                'enabled' => true,
+                'profile' => [
+                    'name' => 'Brandon Himes',
+                    'desc' => 'Software Developer',
+                    'avatar_url' => 'https://pbs.twimg.com/profile_images/1791547896/394904_10150442771145741_612050740_9097674_1939925495_n_200x200.jpg',
+                    'informations' => [
+                        0 => [
+                            'icon' => 'map-marker',
+                            'label' => 'Location',
+                            'url' => '',
+                            'text' => 'San Diego, CA'
+                        ],
+                        1 => [
+                            'icon' => 'envelope-o',
+                            'label' => 'Email',
+                            'url' => 'mailto:admin@brandonhimes.com',
+                            'text' => 'admin@brandonhimes.com'
+                        ],
+                        2 => [
+                            'icon' => 'link',
+                            'label' => 'Website',
+                            'url' => 'brandonhimes.com',
+                            'text' => 'brandonhimes.com'
+                        ]
+                    ]
+                ],
+                'contact_url' => 'mailto:admin@brandonhimes.com',
+                'github' => 'brandikun',
+                'rss_feed' => [
+                    'url' => 'https://medium.com/feed/@brandonx',
+                    'limit' => 3,
+                    'effect' => 'slideFastSynced'
+                ],
+                'linkedin' => 'https://linkedin.com/in/brandonh92019',
+                'social' => [
+                    'networks' => [
+                        0 => [
+                            'url' => 'https://twitter.com/brandonhmmmms',
+                            'icon' => 'twitter',
+                            'title' => NULL
+                        ],
+                        1 => [
+                            'url' => 'https://linkedin/in/brandonh92019',
+                            'icon' => 'linkedin',
+                            'title' => NULL
+                        ],
+                        2 => [
+                            'url' => 'https://github.com/brandikun',
+                            'icon' => 'github-alt',
+                            'title' => NULL
+                        ]
+                    ]
+                ],
+                'streams' => [
+                    'schemes' => [
+                        'theme' => [
+                            'type' => 'ReadOnlyStream',
+                            'paths' => [
+                                0 => 'user/themes/developer'
+                            ]
+                        ]
+                    ]
+                ]
+            ]
         ]
     ]
 ];
