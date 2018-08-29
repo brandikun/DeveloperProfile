@@ -1,100 +1,77 @@
-# -----------------------------------------------------------------
-# .gitignore
-# Bare Minimum Git
-# http://ironco.de/bare-minimum-git/
-# ver 20180714
-#
-# From the root of your project run
-# curl -O https://gist.githubusercontent.com/salcode/10017553/raw/.gitignore
-# to download this file
-#
-# This file is tailored for a general web project, it 
-# is NOT optimized for a WordPress project.  See
-# https://gist.github.com/salcode/b515f520d3f8207ecd04 
-# for a WordPress specific .gitignore
-#
-# This file specifies intentionally untracked files to ignore
-# http://git-scm.com/docs/gitignore
-#
-# NOTES:
-# The purpose of gitignore files is to ensure that certain files not
-# tracked by Git remain untracked.
-#
-# To ignore uncommitted changes in a file that is already tracked,
-# use `git update-index --assume-unchanged`.
-#
-# To stop tracking a file that is currently tracked,
-# use `git rm --cached`
-#
-# Change Log:
-# 20180714 unignore .phpcs.xml.dist
-# 20170502 unignore composer.lock
-# 20170502 ignore components loaded via Bower
-# 20150326 ignore jekyll build directory `/_site`
-# 20150324 Reorganized file to list ignores first and whitelisted last,
-#          change WordPress .gitignore link to preferred gist,
-#          add curl line for quick installation
-#          ignore composer files (vendor directory and lock file)
-# 20140606 Add .editorconfig as a tracked file
-# 20140418 remove explicit inclusion 
-#          of readme.md (this is not an ignored file by default)
-# 20140407 Initially Published
-#
-# -----------------------------------------------------------------
+# Sass
+.sass-cache
+*.map
 
-# ignore all files starting with . or ~
-.*
-~*
+# Add the entire Grav site to GitHub
+# https://getgrav.org/blog/developing-with-github-part-2
+composer.lock
+backup/*
+!backup/.*
+cache/*
+!cache/.*
+assets/*
+!assets/.*
+logs/*
+!logs/.*
+images/*
+!images/.*
+user/data/*
+!user/data/.*
+user/accounts/*
+!user/accounts/.*
 
-# ignore node/grunt dependency directories
-node_modules/
+# local cofig and security
+user/localhost/config/security.yaml
+user/config/security.yaml
+user/config/site.yaml
+user/config/system.yaml
+user/config/plugins/email.yaml
 
-# ignore composer vendor directory
-/vendor
+#specific .htaccess -> dists in webserver-congifs
+.htaccess
 
-# ignore components loaded via Bower
-/bower_components
+tests/_output/*
+tests/_support/_generated/*
+tests/cache/*
+tests/error.log
 
-# ignore jekyll build directory
-/_site
-
-# ignore OS generated files
+# OS Generated
+.DS_Store*
 ehthumbs.db
+Icon?
 Thumbs.db
+*.swp
 
-# ignore Editor files
-*.sublime-project
-*.sublime-workspace
-*.komodoproject
+### Node ###
 
-# ignore log files and databases
-*.log
-*.sql
-*.sqlite
+npm-debug.log
 
-# ignore compiled files
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
 
-# ignore packaged files
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+# nyc test coverage
+.nyc_output
 
-# -------------------------
-# BEGIN Whitelisted Files
-# -------------------------
- 
-# track these files, if they exist
-!.gitignore
-!.editorconfig
-!.phpcs.xml.dist
+# node-waf configuration
+.lock-wscript
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+.idea/hammes.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries/Sebastian.xml
+.idea/inspectionProfiles/Project_Default.xml
