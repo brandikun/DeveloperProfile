@@ -1,7 +1,0 @@
-{% set collection = page.collection() %}
-
-{% if collection | length %}
-    {% for item in collection %}
-      {{ item.title }}
-    {% endfor %}
-{% endif %}
