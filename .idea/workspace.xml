@@ -1,86 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67e3a7c-0b36-4625-9b8a-4a4271b2049f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/user/pages/01.home/_listen_music/01.jon-hopkins/music.md" />
-      <change beforePath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" />
-      <change beforePath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" afterPath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" />
-      <change beforePath="$PROJECT_DIR$/cache/compiled/files/c4ed08c86058c13a4c5eb1c505e44b8f.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/c4ed08c86058c13a4c5eb1c505e44b8f.yaml.php" />
-      <change beforePath="$PROJECT_DIR$/cache/compiled/files/f3b5b5682235132d8a6701dfd588f6e6.yaml.php" afterPath="$PROJECT_DIR$/cache/compiled/files/f3b5b5682235132d8a6701dfd588f6e6.yaml.php" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/04/672d31366533343462395b63353662636636636337396231616564323365646664303331376234653034395d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/09/672d31366533343462395b63633765343537393436336631393961666138653764643930336532633831385d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/0b/672d31366533343462395b65613466616266386365363631626239396238366461313831333334663763395d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/0d/672d31366533343462395b38333961326135353037346265336630356439613439366434303432333663315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/16/672d31366533343462395b30656263623439636334663032623035656537376164613561646630646637375d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/17/672d31366533343462395b65396463373561306437626535663362336533303133306435623361633532635d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/21/672d31366533343462395b37353566636465646164333035376435396265356139373435366436663964345d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/29/672d31366533343462395b64646535633535383538336430316134373230626536663836323963653839645d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/31/672d31366533343462395b31343638353431623338346262643732343637363233366466356436363431385d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/32/672d31366533343462395b35306336396561613636343339326539623734346431313162663931366338655d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/38/672d31366533343462395b63303565373334373236376238633730616234343333346638333261633535315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/42/672d31366533343462395b33633039663366333631643435363039323633623833376261316131373861315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/43/672d31366533343462395b30376636643834663561383834376638363637386137393863656437636664395d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/56/672d31366533343462395b32373231633935323838646432633737653939346264643232316637613638315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/57/672d31366533343462395b62333337356162356530613630303632386538393661656139306338333264325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/63/672d31366533343462395b33363234373738363835316533666133663663313631633132326238316165635d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/64/672d31366533343462395b31386665393661386536363435326663633165316431303462336263633064665d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/6f/672d31366533343462395b33316536653334306234393738303730613338643466646261326139326633395d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/74/672d31366533343462395b38633063663234646238663930303632363438376262663039346236663534385d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/76/672d31366533343462395b30336532356432383938326562323666616562323731306536623733393435315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/76/672d31366533343462395b31383763323765653761656430393733376233376138356264326636663634335d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/77/672d31366533343462395b33343361333837306631303930343233623766353663333734373166653935665d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/7b/672d31366533343462395b62333639346338353734663966373338333863346132633439623833656530305d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/82/672d31366533343462395b64313739356237356166383134646437643866656233633362336339623330655d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/83/672d31366533343462395b31376439396161373265353230306537616262643931636463633036316133325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/84/672d31366533343462395b65666531386261613936633730613634653632336365653661373431393163335d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/86/672d31366533343462395b65396663646233386462626164663562363634396135653036616438343235345d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/88/672d31366533343462395b62353664306338386165396363316165663330376335373663613339336433325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/8e/672d31366533343462395b66316138306462653237333231353237323035326166393239303933663231325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/90/672d31366533343462395b39653261653035386630323133663831656235303633646336326236303836325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/97/672d31366533343462395b35363566323735376661356234373931313538653433623839316531386664665d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/9e/672d31366533343462395b66313834346432323638663636653333663165663163646665633234353435315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/a4/672d31366533343462395b33666538376666303063356239333864633131366661656564323563363032325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/ac/672d31366533343462395b62646363333435383865336636636333363263373035316161626534356430325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/b2/672d31366533343462395b64653833656133633736336466363462343361363462623863396266393264635d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/c3/672d31366533343462395b32616333306536633935303733653833636533366266303964393630316364635d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/c8/672d31366533343462395b64653437306133653337323966393334306239323435383466303566353432375d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/d1/672d31366533343462395b65343464616133373365306531353634396332373731363136633963333561385d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/dc/672d31366533343462395b65366337393138346535643235383534306530626339636337636234366362345d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/e2/672d31366533343462395b31663663613331326663333461343230326334323032316232613635346465645d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/e7/672d31366533343462395b31663531653764306539313563313766336666306461376437306364366364315d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/e8/672d31366533343462395b34306663373331653939633236366663623764383537303434323930336466365d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/ec/672d31366533343462395b36343365396638363366616333623832393262623635643061303532316536665d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/f5/672d31366533343462395b31363930623435356232633231656233363731303435336433353861383839325d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/f5/672d31366533343462395b37616636306165386261376531383266383036316131386330396637343863665d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/fb/672d31366533343462395b32663831656166303836663437316232613937326633363737376132383938645d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/doctrine/fe/672d31366533343462395b61656561616334653836666161326539333765303436343761346537656236375d5b315d.doctrinecache.data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/problem-check-g-16e344b9" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/twig/0f/0f8c6f4a85e89dff08110c2d37398ddd37f4982c474db024ae3613d65261e7d7.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/twig/1d/1d0797d0db1e2694b9f56129c4a57e024c70e3c4ebfdc18d9d182ac9b31c1b2b.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/cache/twig/3e/3e5c1812d66447de5cd4a1f74e78ea6d7f429a6bfd62eff4efc569fc79bff132.php" afterPath="$PROJECT_DIR$/cache/twig/3e/3e5c1812d66447de5cd4a1f74e78ea6d7f429a6bfd62eff4efc569fc79bff132.php" />
-      <change beforePath="$PROJECT_DIR$/logs/grav.log" afterPath="$PROJECT_DIR$/logs/grav.log" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_about/text.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_about/text.md" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_blog/blog.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_blog/blog.md" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_languages/01.english/language.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_languages/02.spanish/language.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_languages/languages.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_latest_projects/01.kickstaster-potato-salad-app/project.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_latest_projects/01.ben/project.md" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_latest_projects/03.tempo-designed-for-startups/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_latest_projects/04.delta-designed-for-mobile-apps/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_listen_music/01.etiam-hendrerit-urna-nunc/music.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_listen_music/02.ut-sollicitudin-in-mauris-non-auctor/music.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_listen_music/03.etiam-hendrerit-urna-nunc/music.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_projects/01.project-title-cras-lacus/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_projects/02.project-title-cras-eget-lacus/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_projects/03.project-title-maecenas-ornare/project.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_projects/projects.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_skills/skills.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_skills/skills.md" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/_testimonials/01.curabitur-commodo/testimonial.md" afterPath="$PROJECT_DIR$/user/pages/01.home/_testimonials/01.curabitur-commodo/testimonial.md" />
-      <change beforePath="$PROJECT_DIR$/user/pages/01.home/modular.md" afterPath="$PROJECT_DIR$/user/pages/01.home/modular.md" />
-      <change beforePath="$PROJECT_DIR$/user/themes/developer/developer.yaml" afterPath="$PROJECT_DIR$/user/themes/developer/developer.yaml" />
-      <change beforePath="$PROJECT_DIR$/user/themes/developer/templates/modular/listen_music.html.twig" afterPath="$PROJECT_DIR$/user/themes/developer/templates/modular/listen_music.html.twig" />
-    </list>
+    <list default="true" id="c67e3a7c-0b36-4625-9b8a-4a4271b2049f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,20 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="project.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/01.ben/project.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="blog.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user/pages/01.home/_blog/blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -219,9 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,6 +203,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -383,19 +291,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1058" y="-140" width="1066" height="1656" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grav" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960525" sideWeight="0.5038095" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5038095" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31904763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960525" sideWeight="0.4961905" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -405,6 +313,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960525" sideWeight="0.4961905" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -416,6 +325,44 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_blog/blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/developer/templates/modular/latest_projects.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_about/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/developer/templates/modular/blog.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -427,14 +374,12 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -444,7 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -468,7 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,156 +417,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/assets/css/music-card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/assets/js/music-card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-353">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/classes/MusicCard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6922">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/classes/BCScraper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1261">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/templates/partials/musiccard.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/vendor/autoload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/CHANGELOG.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-556">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_listen_music/03.maribou-state/music.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="86" lean-forward="false" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/musiccard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-683">
-          <caret line="131" column="14" lean-forward="false" selection-start-line="127" selection-start-column="12" selection-end-line="131" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/composer.json" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/assets/css/music-card.css" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/assets/js/music-card.js" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/classes/MusicCard.php" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/classes/BCScraper.php" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/templates/partials/musiccard.html.twig" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/vendor/autoload.php" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/CHANGELOG.md" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_listen_music/03.maribou-state/music.md" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/musiccard.php" />
     <entry file="file://$PROJECT_DIR$/user/themes/developer/templates/modular.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-292">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="25" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/README.md" />
     <entry file="file://$PROJECT_DIR$/user/themes/developer/templates/modular/listen_music.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/musiccard.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/blueprints.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="77" column="29" lean-forward="false" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_listen_music/02.midnight/music.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="86" lean-forward="false" selection-start-line="2" selection-start-column="86" selection-end-line="2" selection-end-column="86" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/musiccard.yaml" />
+    <entry file="file://$PROJECT_DIR$/user/plugins/musiccard/blueprints.yaml" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_listen_music/02.midnight/music.md" />
     <entry file="file://$PROJECT_DIR$/user/pages/01.home/_listen_music/01.jon-hopkins/music.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -636,7 +463,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -647,7 +473,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -658,7 +483,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="17">
             <caret line="1" column="82" lean-forward="false" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -669,7 +493,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="153">
             <caret line="9" column="149" lean-forward="false" selection-start-line="9" selection-start-column="149" selection-end-line="9" selection-end-column="149" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -680,7 +503,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -691,7 +513,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -702,90 +523,35 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/whattocook.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/whattocook.png" />
     <entry file="file://$PROJECT_DIR$/user/pages/01.home/modular.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="204">
             <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/project.md" />
     <entry file="file://$PROJECT_DIR$/user/themes/developer/blueprints.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/default.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/whattocook2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/project.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook-2/whattocook2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/03.test/modular.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/default.md" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/whattocook2.png" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook/project.md" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/02.what-to-cook-2/whattocook2.png" />
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/03.test/modular.md" />
     <entry file="file://$PROJECT_DIR$/user/pages/01.home/_latest_projects/01.ben/project.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -810,7 +576,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="34">
             <caret line="2" column="60" lean-forward="false" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
