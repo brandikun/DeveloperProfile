@@ -6,19 +6,14 @@
 # https://getgrav.org/blog/developing-with-github-part-2
 composer.lock
 backup/*
-!backup/.*
 cache/*
-!cache/.*
 assets/*
 !assets/.*
 logs/*
-!logs/.*
 images/*
 !images/.*
 user/data/*
-!user/data/.*
 user/accounts/*
-!user/accounts/.*
 
 # local cofig and security
 user/localhost/config/security.yaml
@@ -70,8 +65,4 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
-.idea/hammes.iml
-.idea/modules.xml
-.idea/workspace.xml
-.idea/dictionaries/Sebastian.xml
-.idea/inspectionProfiles/Project_Default.xml
+.idea/*
